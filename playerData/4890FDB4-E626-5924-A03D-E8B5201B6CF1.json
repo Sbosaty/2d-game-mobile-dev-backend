@@ -1,0 +1,18 @@
+{
+  "coins": 300,
+  "unlockedLevels": [
+    "Level 1"
+  ],
+  "unlockedCars": [
+    0
+  ],
+  "unlockedDirtCars": [
+    0
+  ],
+  "unlockedBoats": [
+    0
+  ],
+  "selectedCar": 0,
+  "selectedDirtCar": 0,
+  "selectedBoat": 0
+}
